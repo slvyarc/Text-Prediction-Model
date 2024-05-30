@@ -34,7 +34,9 @@ Dataset yang digunakan dalam proyek ini adalah kumpulan soneta Shakespeare, yang
 
 ## Hasil
 
-Model berhasil mencapai akurasi sebesar 84.54% setelah 50 epoch pelatihan. Model dapat menghasilkan teks baru yang mengikuti gaya bahasa Shakespeare, meskipun masih terdapat beberapa ketidakkoherenan dan pengulangan dalam prediksi kata.
+Implementasi model prediksi teks menunjukkan bahwa model dapat menghasilkan teks yang menyerupai gaya bahasa Shakespeare dengan tingkat akurasi yang cukup tinggi. Model ini mencapai akurasi sebesar 84.54% setelah 50 epoch pelatihan. Meskipun demikian, masih terdapat beberapa ketidakkoherenan dan pengulangan dalam teks yang dihasilkan.
+
+Fokus analisis pada teks yang dihasilkan menunjukkan bahwa model dapat menangkap pola bahasa yang kompleks, namun perlu perbaikan lebih lanjut untuk meningkatkan koherensi dan mengurangi pengulangan. Pendekatan yang berbeda mungkin diperlukan untuk memperbaiki hasil prediksi dan meningkatkan performa model secara keseluruhan.
 
 ## Contoh Penggunaan
 
